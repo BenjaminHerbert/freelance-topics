@@ -101,7 +101,6 @@ Projektanbieter
 * [http://www.abcona.de/](http://www.abcona.de/)
 * [http://www.lenroxx.com/](http://www.lenroxx.com/)
 * [http://www.bbv.ch/freelancer](http://www.bbv.ch/freelancer)
-* [http://www.sw-xperts.com/de/it-experten/contracting/](http://www.sw-xperts.com/de/it-experten/contracting/)
 * [http://www.tekom-gmbh.de/jobsd.htm](http://www.tekom-gmbh.de/jobsd.htm)
 * [http://www.dozentenscout.de/](http://www.dozentenscout.de/)
 * [http://www.bluecarat.eu/projektangebote/freie.htm](http://www.bluecarat.eu/projektangebote/freie.htm)
