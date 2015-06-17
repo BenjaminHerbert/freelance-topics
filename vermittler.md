@@ -114,4 +114,4 @@ Projektanbieter
 * [http://www.ee-ag.com/](http://www.ee-ag.com/)
 * [http://www.comebis.com/](http://www.comebis.com/)
 * [http://www.matchtech.de/stellenangebote/](http://www.matchtech.de/stellenangebote/)
-* [http://www.mund-consulting.de/wordpress/?p=420](Mund Consulting AG)
+* [http://www.mund-consulting.de/wordpress/?p=420](http://www.mund-consulting.de/wordpress/?p=420)
