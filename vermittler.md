@@ -115,3 +115,4 @@ Projektanbieter
 * [http://www.comebis.com/](http://www.comebis.com/)
 * [http://www.matchtech.de/stellenangebote/](http://www.matchtech.de/stellenangebote/)
 * [http://www.mund-consulting.de/wordpress/?p=420](http://www.mund-consulting.de/wordpress/?p=420)
+* [https://www.contractor.de/freelancer/projektangebote/](https://www.contractor.de/freelancer/projektangebote/)
