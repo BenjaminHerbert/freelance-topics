@@ -4,7 +4,7 @@
 * [http://esklusiv.de/fuer-esperten/esklusive-projekte/](http://esklusiv.de/fuer-esperten/esklusive-projekte/)
 * [http://www.csa.de/](http://www.csa.de/)
 * [http://www.centomo.de/index.php/jobs/](http://www.centomo.de/index.php/jobs/)
-* [http://www.aurelly.com/de/bewerber/job-angebote/](http://www.aurelly.com/de/bewerber/job-angebote/)
+* [https://www.aurelly.com/jobs/jobs-types/freelancer](https://www.aurelly.com/jobs/jobs-types/freelancer)
 * [http://ciric.de/index.php/de/karriere-job-market-place/category/freiberuflich](http://ciric.de/index.php/de/karriere-job-market-place/category/freiberuflich)
 * [http://www.asspro.de/Projektangebote/Alle](http://www.asspro.de/Projektangebote/Alle)
 * [http://www.careerjet.de/wsuchen/stellenangebote?c=informationstechnologie&amp;l=Deutschland&amp;ct=c](http://www.careerjet.de/wsuchen/stellenangebote?c=informationstechnologie&amp;l=Deutschland&amp;ct=c)
