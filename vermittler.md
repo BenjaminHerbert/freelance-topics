@@ -8,7 +8,7 @@
 * [http://ciric.de/index.php/de/karriere-job-market-place/category/freiberuflich](http://ciric.de/index.php/de/karriere-job-market-place/category/freiberuflich)
 * [http://www.asspro.de/Projektangebote/Alle](http://www.asspro.de/Projektangebote/Alle)
 * [http://www.careerjet.de/wsuchen/stellenangebote?c=informationstechnologie&amp;l=Deutschland&amp;ct=c](http://www.careerjet.de/wsuchen/stellenangebote?c=informationstechnologie&amp;l=Deutschland&amp;ct=c)
-* [http://lvconsulting.com/index-3.html](http://lvconsulting.com/index-3.html)
+* [http://lvconsulting.com/projektangebote](http://lvconsulting.com/projektangebote)
 * [http://www.bep-net.de/75-0-Projektboerse.html](http://www.bep-net.de/75-0-Projektboerse.html)
 * [http://www.volteurope.de/](http://www.volteurope.de/)
 * [http://mymotion.de/projekte-finden.html](http://mymotion.de/projekte-finden.html)
