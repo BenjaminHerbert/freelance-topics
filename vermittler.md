@@ -1,7 +1,7 @@
 # Projektanbieter
 
 * [https://www.compeople.de/karriere-jobs/freelancer.html](https://www.compeople.de/karriere-jobs/freelancer.html)
-* [http://esklusiv.de/fuer-esperten/esklusive-projekte/](http://esklusiv.de/fuer-esperten/esklusive-projekte/)]
+* [http://esklusiv.de/fuer-esperten/esklusive-projekte/](http://esklusiv.de/fuer-esperten/esklusive-projekte/)
 * [http://www.csa.de/](http://www.csa.de/)
 * [http://www.centomo.de/index.php/jobs/](http://www.centomo.de/index.php/jobs/)
 * [http://www.aurelly.com/de/bewerber/job-angebote/](http://www.aurelly.com/de/bewerber/job-angebote/)
