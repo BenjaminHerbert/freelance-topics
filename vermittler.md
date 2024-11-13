@@ -1,8 +1,6 @@
 # Freelance
 
 ## Accessible Links
-- [https://career.axxessio.com/freelancer/job_offers/](https://career.axxessio.com/freelancer/job_offers/)
-- [https://ciric.de/index.php/de/karriere-job-market-place/category/freiberuflich](https://ciric.de/index.php/de/karriere-job-market-place/category/freiberuflich)
 - [https://esklusiv.de/fuer-esperten/esklusive-projekte/](https://esklusiv.de/fuer-esperten/esklusive-projekte/)
 - [https://exco.de/](https://exco.de/)
 - [https://lvconsulting.com/projektangebote](https://lvconsulting.com/projektangebote)
